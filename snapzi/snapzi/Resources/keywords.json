@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    { "char": "门", "relatedWords": ["大门", "房门", "柜门", "冰箱门"] },
+    { "char": "车", "relatedWords": ["小汽车", "公交车", "自行车", "玩具车"] },
+    { "char": "灯", "relatedWords": ["台灯", "吊灯", "小夜灯", "路灯"] },
+    { "char": "杯", "relatedWords": ["水杯", "茶杯", "保温杯", "刷牙杯"] },
+    { "char": "书", "relatedWords": ["书包", "书本", "书店", "图书馆"] },
+    { "char": "水", "relatedWords": ["水龙头", "水杯", "水壶", "水池"] },
+    { "char": "园", "relatedWords": ["公园", "花园", "幼儿园", "动物园"] },
+    { "char": "球", "relatedWords": ["足球", "篮球", "气球", "皮球"] },
+    { "char": "店", "relatedWords": ["商店", "书店", "饭店", "玩具店"] },
+    { "char": "果", "relatedWords": ["水果", "苹果", "果汁", "干果"] },
+    { "char": "鱼", "relatedWords": ["金鱼", "鱼缸", "小鱼"] },
+    { "char": "包", "relatedWords": ["书包", "背包", "面包", "提包"] }
+  ]
+}
